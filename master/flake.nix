@@ -11,7 +11,6 @@
   inputs.src-drawim-master.ref   = "refs/heads/master";
   inputs.src-drawim-master.owner = "GabrielLasso";
   inputs.src-drawim-master.repo  = "drawim";
-  inputs.src-drawim-master.dir   = "";
   inputs.src-drawim-master.type  = "github";
   
   inputs."staticglfw".owner = "nim-nix-pkgs";

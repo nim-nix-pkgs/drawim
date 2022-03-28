@@ -11,7 +11,6 @@
   inputs.src-drawim-0_1_1.ref   = "refs/tags/0.1.1";
   inputs.src-drawim-0_1_1.owner = "GabrielLasso";
   inputs.src-drawim-0_1_1.repo  = "drawim";
-  inputs.src-drawim-0_1_1.dir   = "";
   inputs.src-drawim-0_1_1.type  = "github";
   
   inputs."staticglfw".owner = "nim-nix-pkgs";
