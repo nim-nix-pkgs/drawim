@@ -124,23 +124,23 @@
         "jscanvas": "jscanvas",
         "nixpkgs": "nixpkgs",
         "opengl": "opengl",
-        "src-drawim-master": "src-drawim-master",
+        "src-drawim-devel": "src-drawim-devel",
         "staticglfw": "staticglfw"
       }
     },
-    "src-drawim-master": {
+    "src-drawim-devel": {
       "flake": false,
       "locked": {
-        "lastModified": 1632228966,
-        "narHash": "sha256-NUXOBld0znlvOhuqCKy0+tiXOuSgYZ5tsH84Q+pny/E=",
+        "lastModified": 1631842976,
+        "narHash": "sha256-ZLbq4Gw7JT5CFhMSKXQ+L0v4sUgIyIdy2AZVllvXews=",
         "owner": "GabrielLasso",
         "repo": "drawim",
-        "rev": "72c4b41bf785fed7d7c5f6c76fe744d589896f1c",
+        "rev": "379df83d4b004b83158f48f0a973ff50ba8ff916",
         "type": "github"
       },
       "original": {
         "owner": "GabrielLasso",
-        "ref": "refs/heads/master",
+        "ref": "refs/heads/devel",
         "repo": "drawim",
         "type": "github"
       }
